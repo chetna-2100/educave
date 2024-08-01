@@ -1,1 +1,1 @@
-# educave
+This project involves creating an interactive and responsive education website using HTML, CSS, and JavaScript. The website serves as a platform for students and educators, offering various educational resources.
